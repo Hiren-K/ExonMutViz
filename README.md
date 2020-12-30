@@ -3,7 +3,7 @@
 To run this tool
 --------------------------------------------
 
-To Run this tool, just go inside the directory where you downloaded the ExonMutViz directories. i.e., Keep the three directories under single directory i.e., input, output, script. 
+To Run this tool, just go inside the directory where you downloaded the uncompressed ExonMutViz zip file. i.e., You will find three directories i.e., input, output, script. 
 
 Change your input and gene model files in the same format as provided inside the "input" directory as per instruction provided in the "ExonMutViz_SeqCovViz_Instructions.pdf".
 
