@@ -183,7 +183,7 @@ Enjoy….
 
 Wait, unfortunately 
 
-If through any unknown factor, still you get trouble in running the PapViz or you find any bug in output of it, please write me on hiren@umiacs.umd.edu, I will be very much happy to help you. 
+If through any unknown factor, still you get trouble in running the PapViz or you find any bug in output of it, please write me on hirkarathia@gmail.com, I will be very much happy to help you. 
 
 
 
