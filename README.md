@@ -22,7 +22,9 @@ Note: If the tutorial instruction fails somehow for the configuration of python,
 Directory Structure
 --------------------------------------------
 ExonMutViz.zip
+          
           --- ExonMutViz
+                      
                       ---- input
                                ---- input_data.txt
                                ---- reference_gene_models.txt
