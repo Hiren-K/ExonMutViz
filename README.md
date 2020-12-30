@@ -143,7 +143,7 @@ You can type either “yes” or “no”, if you type yes, it will configure th
 
 If you are not using Ubuntu, you can do as follows
 
-$ /home/John/ ExonMutViz/miniconda3/bin/conda create --name Py3 python=3 numpy matplotlib Pillow
+$ /home/John/ExonMutViz/miniconda3/bin/conda create --name Py3 python=3 numpy matplotlib Pillow
 
 If you are using ubuntu then 
 
