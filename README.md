@@ -12,7 +12,7 @@ Tool Implementation Instruction
 ----------------------------------------------------
 
 The ExonMutViz is implemented on Python3.x as well as it is made to run on Python 2.x.  The dependent packages are: Matplotlib, Pillow (PIL.Image) and Numpy. (Note: This Tool will not run on Cygwin from Windows. If have already installed python 2.x OR python 3.x as AND configure numpy, matplotlib and Pillow dependencies either in linux or in Windows, you can run the ExonMutViz directly from command line)
-The “configure.sh” file include complete implementation of the tool including. By this, user do not have to worry about calling the ExonMutViz manually. The scrip automatically takes care of:
+The “configure.sh” file include complete implementation of the tool. By this, user do not have to worry about calling the ExonMutViz manually. The scrip automatically takes care of:
 •	Configure Conda
 •	Configure Python3 with separate environment through the Conda
 •	Call the code automatically, generate, and store outputs in directory wherever user wants.
