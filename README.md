@@ -1,7 +1,15 @@
 # ExonMutViz
 
+To run this tool
+--------------------------------------------
+
+To Run this tool, just go inside the directory where you downloaded the ExonMutViz directories. i.e., Keep the three directories under single directory i.e., input, output, script. 
+
+Change your input file in the same format as provided inside the "input" directory
+
 Tool Implementation Instruction
-The PapViz is implemented on Python3.x as well as it is made to run on Python 2.x.  The dependent packages are: Matplotlib, Pillow (PIL.Image) and Numpy. (Note: This Tool will not run on Cygwin from Windows. If have already installed python 2.x OR python 3.x as AND configure numpy, matplotlib and Pillow dependencies either in linux or in Windows, you can run the PapViz directly from command line)
+-----------------------------------
+The ExonMutViz is implemented on Python3.x as well as it is made to run on Python 2.x.  The dependent packages are: Matplotlib, Pillow (PIL.Image) and Numpy. (Note: This Tool will not run on Cygwin from Windows. If have already installed python 2.x OR python 3.x as AND configure numpy, matplotlib and Pillow dependencies either in linux or in Windows, you can run the PapViz directly from command line)
 The “configure.sh” file covers complete implementation of the tool including. By this, user do not have to worry about calling the PapViz manually. The scrip automatically takes care of:
 •	Configure Conda
 •	Configure Python3 with separate environment through the Conda
