@@ -26,7 +26,7 @@ ExonMutViz.zip
                       ---- input
                                ---- input_data.txt
                                ---- reference_gene_models.txt
-                               ---- PapGene_SeqCovViz_Instructions.doc     
+                                 
                       ---- output
                                ----- (All sample-wise output results)
                       ---- script
